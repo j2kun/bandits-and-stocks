@@ -1,0 +1,17 @@
+random stocks:
+
+payoffs
+{'lxrx': '-1.077', 'keg': '-0.273', 'cuba': '1.159', 'tdi': '0.585', 'brks': '0.315', 'mux': '-3.296', 'cadx': '-1.778', 'belfb': '0.227', 'htr': '1.912'}
+
+best stock: htr with a payoff of 1.912 
+
+
+
+fortune 500 stocks:
+
+payoffs
+{'amzn': '4.025', 'cost': '2.545', 'jpm': '0.455', 'gs': '1.204', 'wfc': '0.284', 'msft': '0.511', 'tgt': '0.395', 'aapl': '0.015', 'wmt': '0.520'}
+
+best stock is amzn with 4.025 cumulative payoff. 
+
+
